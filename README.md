@@ -12,3 +12,5 @@ EDIBO11.sql is a database and tables script file made in MySQL Workbench
 EDIBO11.png is EER Diagram for database - music_shop made by EDIBO11.sql script
 
 #
+
+https://slides.com/bejibiu_white/edibo11 - summary EDIBO Lesson 11 daily goals
