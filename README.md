@@ -8,3 +8,7 @@ Edvīns_EDIBO11.ipynb is created using Google Colaboratory for write a script fo
 EDIBO11.sql is a database and tables script file made in MySQL Workbench
 
 #
+
+EDIBO11.png is EER Diagram for database - music_shop made by EDIBO11.sql script
+
+#
